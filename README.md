@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD4qD1k7vVf9UO4/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA5YWJ4c2l2ajV2bnZmcWJ2b3R0ZmRmYTBjOWlvZXN3eml5eXBodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)" width="200"/>
+  <img src="https://media.giphy.com/media/3o7aD4qD1k7vVf9UO4/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi, I'm Ali ‌B👋</h1>
