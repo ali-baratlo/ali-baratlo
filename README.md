@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4qD1k7vVf9UO4/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/3o7aD4qD1k7vVf9UO4/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA5YWJ4c2l2ajV2bnZmcWJ2b3R0ZmRmYTBjOWlvZXN3eml5eXBodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)" width="200"/>
 </p>
 
 <h1 align="center">Hi, I'm Ali ‌B👋</h1>
@@ -16,10 +16,15 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img alt="Testing" src="https://img.shields.io/badge/Automation_Testing-F7DF1E?style=flat&logo=selenium&logoColor=white"/>
+  <img alt="Automation Testing" src="https://img.shields.io/badge/Automation_Testing-F7DF1E?style=flat&logo=selenium&logoColor=white"/>
+  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img alt="DevOps" src="https://img.shields.io/badge/DevOps-007ACC?style=flat&logo=azuredevops&logoColor=white"/>
 </p>
+
 
 ---
 
