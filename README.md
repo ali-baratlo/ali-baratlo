@@ -27,10 +27,6 @@
 
 ### 🔥 Latest Projects
 - [**Kubernetes Resources Inspector**](https://github.com/ali-baratlo/kubernetes-resources-incpector) – containerized application designed to collect, store, and inspect Kubernetes resources from multiple clusters 
-- [**SRE Automation Scripts**](https://github.com/AliGitHub/sre-scripts) – CI/CD, monitoring & automation tools for reliability
-- [**Software Automation Testing**](https://github.com/AliGitHub?tab=repositories) – Implemented automated test suites, CI/CD integration, and quality assurance for software projects
-- [**Open-source Contributions**](https://github.com/AliGitHub?tab=repositories) – Improving small projects, submitting PRs, code reviews
-
 ---
 
 ### 📊 GitHub Stats
