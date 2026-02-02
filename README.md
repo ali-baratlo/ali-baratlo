@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ali ‌B👋</h1>
 
 <p align="center">
-  SRE & Software Engineer | Building reliable, scalable systems with <b>Python</b> & <b>Go</b> | Cloud, Kubernetes & Open-source enthusiast | Experienced in <b>Software Automation Testing</b>
+  SRE & Software Engineer | Building reliable, scalable systems with <b>Python</b> & <b>Go</b> | Cloud, Kubernetes & Open-source enthusiast | Experienced in Software Automation Testing
 </p>
 
 ---
