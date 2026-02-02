@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4qD1k7vVf9UO4/giphy.gif" width="200"/>
-</p>
 
 <h1 align="center">Hi, I'm Ali ‌B👋</h1>
 
@@ -29,7 +26,7 @@
 ---
 
 ### 🔥 Latest Projects
-- [**FastAPI ConfigMap DB**](https://github.com/AliGitHub/fastapi-configmap-db) – Connects to two OKD4 clusters, fetches ConfigMaps, stores in PostgreSQL, allows searching & comparison via API
+- [**Kubernetes Resources Inspector**](https://github.com/ali-baratlo/kubernetes-resources-incpector) – containerized application designed to collect, store, and inspect Kubernetes resources from multiple clusters 
 - [**SRE Automation Scripts**](https://github.com/AliGitHub/sre-scripts) – CI/CD, monitoring & automation tools for reliability
 - [**Software Automation Testing**](https://github.com/AliGitHub?tab=repositories) – Implemented automated test suites, CI/CD integration, and quality assurance for software projects
 - [**Open-source Contributions**](https://github.com/AliGitHub?tab=repositories) – Improving small projects, submitting PRs, code reviews
